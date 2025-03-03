@@ -10,10 +10,10 @@
       "/content/my-zeiss/placeholders:/placeholders.json",
       "/content/my-zeiss/products/recommended-products:/products/recommended-products.json",
       "/content/my-zeiss/enrichment/enrichment:/enrichment/enrichment.json",
-      "/content/dam/my-zeiss/images/products/:/images/products/"
+      "/content/dam/citisignal/images/products/:/images/products/"
     ],
     "includes": [
       "/content/my-zeiss",
-      "/content/dam/my-zeiss/images/products/"
+      "/content/dam/citisignal/images/products/"
     ]
 }
